@@ -9,7 +9,7 @@ Group members:
     
 Project Drive Link:
 
-https://github.com/Heshvitha/IR_LyricFinder
+https://github.com/SaiSwetha-0902/LyricFinder
     
 How to run:
   1.unzip the file
